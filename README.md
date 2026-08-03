@@ -52,4 +52,3 @@ cloud-computing-course/
 
 - Cloud Infrastructure Management
 
-Markdown Tips: Use # for headings, * or - for lists, **text** for bold, and [link text](url) for hyperlinks.
